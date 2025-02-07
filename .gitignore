@@ -10,3 +10,5 @@ src/pixoo/constants/__pycache__/
 src/pixoo/enums/__pycache__/
 
 src/pixoo/objects/__pycache__/
+.venv/bin/activate
+/.venv
